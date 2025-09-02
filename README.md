@@ -97,12 +97,16 @@ drwxr-xr-x  blockchain/
 badsoul@github:~$ cat current_projects.json
 {
   "active_projects": [
-    "📱 SoulCrack- TOP SECRET",
+
+    "🔑 SoulCrack- TOP SECRET",
+    "🔐 SoulVPN- World's First Private VPN Software",
     "🎰 Crypto Slots App - Blockchain Gaming Platform",
-    "🔍 AdsMining App - Play to Earn Platform",
+    "🔍 AdsMining Web - Ads to Earn Platform",
+    "🔍 Klypta App - Play to Earn Game",
     "⚡ Crypto Mining App - Cryptocurrency Mining Platform",
-    "🎯 Predictor App - AI-Powered Predictor Game",
+    "🎯 Predictor App - AI-Powered Predictor Game Platform",
     "📱 SMS Management System - Communication Tool",
+
   ],
   "technologies_used": ["React", "Node.js", "Solidity", "Python", "MongoDB"],
   "status": "actively_developing"
