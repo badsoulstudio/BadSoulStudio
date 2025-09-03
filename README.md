@@ -135,11 +135,12 @@ badsoul@studio:~$ neofetch
                .OMMMMo           Kernel: Darwin 24.5.0
                OMMM0,            Shell: zsh
      .;loddo:' loolloddol;.      IDE: Cursor, VSCode
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Languages: JavaScript, Python, Solidity
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Frameworks: React, Node.js, Next.js
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Languages: TypeScript, JavaScript, Python, Solidity
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Frameworks: React Native, React, Vue, Node.js, Next.js
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Tools: Git, Docker, Figma
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Focus: Full-Stack Development
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Specialty: Blockchain & Web3
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Databases: MongoDB, PostgreSQL, MySQL, Redis, Firebase  
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Focus: Full-Stack Development, AI/ML, Web3 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Specialty: Social Engineering,Games, Blockchain Apps
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Status: Building the future
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk
@@ -170,9 +171,9 @@ badsoul@studio:~$ contact --info
 {
   "email": "info@badsoul.studio",
   "telegram": "@BadxSoul",
-  "availability": "Always open to interesting projects",
-  "response_time": "< 24 hours",
-  "languages": ["Turkish", "English"]
+  "availability": "Everything is Possible",
+  "response_time": "?",
+  "languages": ["English", "Russian"]
 }
 ```
 
