@@ -30,7 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -52,13 +51,12 @@ badsoul@github:~$ whoami
 ├── 📍 Location: Praha 2, Czechia
 ├── 💼 Role: Full-Stack Developer & Digital Solutions Architect
 ├── 🎯 Focus: Web3, AI/ML, Mobile & Web Development
-├── 📅 Active Since: 2022
+├── 📅 Active Since: 2023
 └── 🚀 Mission: Everything is Possible
 
 badsoul@github:~$ ls -la skills/
 drwxr-xr-x  frontend/
-├── ⚛️  React.js
-├── 🅰️  Angular
+├── ⚛️ React.js
 ├── 💚 Vue.js
 ├── 📘 TypeScript
 ├── 🎨 Tailwind CSS
@@ -74,14 +72,13 @@ drwxr-xr-x  backend/
 
 drwxr-xr-x  mobile/
 ├── 📱 React Native
-├── 🎯 Flutter
-└── 🤖 Kotlin
+└── 🤖 Flutter
 
 drwxr-xr-x  database/
 ├── 🍃 MongoDB
 ├── 🐘 PostgreSQL
-├── 🗄️  MySQL
-├── ⚡ Redis
+├── 🗄️ MySQL
+├── ⚡ Supabase
 └── 🔥 Firebase
 
 drwxr-xr-x  blockchain/
@@ -96,13 +93,14 @@ badsoul@github:~$ cat current_projects.json
   "active_projects": [
 
     "🔑 SoulCrack- TOP SECRET",
+    "🚀 PromptEDU.Ai- The Ultimate Free Guide to AI"
     "🔐 SoulVPN- World's First Private VPN Software",
     "🎰 Crypto Slots App - Blockchain Gaming Platform",
     "🔍 AdsMining Web - Ads to Earn Platform",
-    "🔍 Klypta App - Play to Earn Game",
+    "⏰ Klypta App - Play to Earn Game",
     "⚡ Crypto Mining App - Cryptocurrency Mining Platform",
     "🎯 Predictor App - AI-Powered Predictor Game Platform",
-    "📱 SMS Management System - Communication Tool",
+    "📱 BulkSMS Management System - Marketing Tool",
 
   ],
   "technologies_used": ["React", "Node.js", "Solidity", "Python", "MongoDB"],
@@ -116,9 +114,10 @@ badsoul@github:~$ cat current_projects.json
 
 <div align="center">
 
-[![BadSoul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BadSoulStudio&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![BadSoul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BadSoulStudio&theme=tokyo-night&hide_border=true)
 
 </div>
+
 
 ---
 
