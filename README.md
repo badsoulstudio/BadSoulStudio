@@ -95,11 +95,12 @@ badsoul@github:~$ cat current_projects.json
     "🔑 SoulCrack- TOP SECRET",
     "🚀 PromptEDU.Ai- The Ultimate Free Guide to AI"
     "🔐 SoulVPN- World's First Private VPN Software",
+    "💬 SMSVerify- Instant SMS Verification Services",
     "🎰 Crypto Slots App - Blockchain Gaming Platform",
     "🔍 AdsMining Web - Ads to Earn Platform",
     "⏰ Klypta App - Play to Earn Game",
     "⚡ Crypto Mining App - Cryptocurrency Mining Platform",
-    "🎯 Predictor App - AI-Powered Predictor Game Platform",
+    "🎯 Predictor App - Predictor Crypto Game Platform",
     "📱 BulkSMS Management System - Marketing Tool",
 
   ],
