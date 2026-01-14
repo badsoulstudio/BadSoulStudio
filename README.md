@@ -154,7 +154,7 @@ badsoul@studio:~$ neofetch
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://badsoul.studio)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BadxSoul)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BadSoulStudio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BadSoulStudio)
 
 </div>
@@ -167,7 +167,7 @@ badsoul@studio:~$ neofetch
 badsoul@studio:~$ contact --info
 {
   "email": "info@badsoul.studio",
-  "telegram": "@BadxSoul",
+  "telegram": "@BadSoulStudio",
   "availability": "Everything is Possible",
   "response_time": "?",
   "languages": ["English", "Russian"]
