@@ -1,94 +1,159 @@
 <div align="center">
 
-# 💀 BadSoul Studio
+<a href="https://badsoul.studio">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=720&height=58&lines=BadSoul+Studio;AI+%C3%97+Cybersecurity;Everything+is+Possible." alt="BadSoul Studio · AI × Cybersecurity · Everything is Possible." />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Systems+Architect;Building+Intelligent+Infrastructure;AI+%7C+Cybersecurity+%7C+Distributed+Systems" />
+<sub>Solo technology studio · founded 2023 · Benidorm, Spain · EN / RU / ES</sub>
+
+<br /><br />
+
+<a href="https://badsoul.studio"><img src="https://img.shields.io/badge/-badsoul.studio-10B981?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0B0F14" /></a>
+&nbsp;
+<a href="mailto:info@badsoul.studio"><img src="https://img.shields.io/badge/-info%40badsoul.studio-10B981?style=flat&logo=protonmail&logoColor=10B981&labelColor=0B0F14" /></a>
+&nbsp;
+<a href="https://t.me/BadSoulStudio"><img src="https://img.shields.io/badge/-%40BadSoulStudio-10B981?style=flat&logo=telegram&logoColor=10B981&labelColor=0B0F14" /></a>
+&nbsp;
+<a href="https://github.com/badsoulstudio"><img src="https://img.shields.io/github/followers/badsoulstudio?style=flat&logo=github&logoColor=10B981&color=10B981&labelColor=0B0F14&label=follow" /></a>
 
 </div>
-
----
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Blockchain & Web3
-![TON](https://img.shields.io/badge/TON-00C2FF?style=for-the-badge&logo=ton&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### AI & Cybersecurity
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1A77C9?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
 ---
 
+### // about
+
+> *"Where artificial intelligence meets cybersecurity, the impossible becomes inevitable."*
+
+A one-person tech studio founded in **2023**, operating from **Benidorm, Spain**.
+What began as a curiosity-driven side project grew into a full-service operation
+crossing **AI, cybersecurity, Web3, games, automation** and **full-stack engineering**.
+
+Most studios pick a side. We refuse to. **AI without security is fragile.**
+**Security without intelligence is blind.** We build products where the two are
+not merely compatible — they are the same system.
+
+<sub>one operator · full stack · end to end · idea → deploy · threat model → incident response</sub>
+
 ```bash
-badsoul@studio:~$ whoami
-├── Systems Architect
-├── Prague, Czech Republic
-├── Engineering Scalable Digital Infrastructure
-└── Active Since 2023
-
-
-badsoul@studio:~$ focus
-AI & Machine Learning
-Cybersecurity & AI Agent
-Distributed Communication Systems
-Privacy-First Blockchain Protocols (TON)
-
-
-badsoul@studio:~$ build
-SoulVPN        → Decentralized Privacy Layer
-SignalCore     → Distributed Messaging Infrastructure
-AlphaSm       → AI Simulation Engine
-CyberLabs      → AI Penetration Testing & Security Frameworks
-
-
-badsoul@studio:~$ philosophy
-Own the stack.
-Design for scale.
-Secure every layer.
-Build long-term systems.
-
-
-badsoul@studio:~$ contact
-email: info@badsoul.studio
-telegram: @BadSoulStudio
-status: Open to strategic collaborations
+$ neofetch --studio
+soul       @badsoul
+OS         BadSoul OS v2.0
+Host       badsoul.studio
+Location   Benidorm, Spain
+Languages  English · Russian · Spanish
+Core       AI × Cybersecurity fusion
+Focus      AI/ML · Web3 · Cybersecurity · Games
+Since      2023
 ```
 
 ---
 
+### // capabilities
+
+<kbd>&nbsp;AI / ML&nbsp;</kbd> &nbsp; <kbd>&nbsp;Cybersecurity&nbsp;</kbd> &nbsp; <kbd>&nbsp;Web3&nbsp;</kbd> &nbsp; <kbd>&nbsp;Games / GameFi&nbsp;</kbd>
+<br /><br />
+<kbd>&nbsp;Bots / Automation&nbsp;</kbd> &nbsp; <kbd>&nbsp;Full-stack Web&nbsp;</kbd> &nbsp; <kbd>&nbsp;Mobile&nbsp;</kbd> &nbsp; <kbd>&nbsp;Cloud / DevOps&nbsp;</kbd>
+
+<sub>custom models · LLM pipelines · audits · red-team tooling · smart contracts · Telegram mini-apps · trading bots · production deploys</sub>
+
+---
+
+### // active projects
+
+</div>
+
+<table align="center">
+<thead>
+<tr>
+<th align="center">AI · Security</th>
+<th align="center">Web3 · GameFi</th>
+<th align="center">SaaS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+
+<kbd>SoulCrack</kbd> &nbsp; <sub>red-team agent</sub><br /><br />
+<kbd>GhostHunter</kbd> &nbsp; <sub>threat-intel</sub><br /><br />
+<kbd>PayloadGPT</kbd> &nbsp; <sub>offensive copilot</sub><br /><br />
+<kbd>PromptEDU</kbd> &nbsp; <sub>AI literacy</sub><br /><br />
+<kbd>SoulVPN</kbd> &nbsp; <sub>privacy VPN</sub><br /><br />
+<kbd>Predictor</kbd> &nbsp; <sub>ML forecaster</sub>
+
+</td>
+<td valign="top">
+
+<kbd>Crypto Mining</kbd> &nbsp; <sub>MaaS</sub><br /><br />
+<kbd>Crypto Slots</kbd> &nbsp; <sub>casino on TON</sub><br /><br />
+<kbd>Klypta</kbd> &nbsp; <sub>P2E ecosystem</sub><br /><br />
+<kbd>AdsMining</kbd> &nbsp; <sub>ads-to-earn</sub>
+
+</td>
+<td valign="top">
+
+<kbd>SMSVerify</kbd> &nbsp; <sub>OTP API</sub><br /><br />
+<kbd>BulkSMS</kbd> &nbsp; <sub>marketing SMS</sub>
+
+</td>
+</tr>
+</tbody>
+</table>
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BadSoulStudio&theme=tokyo-night&hide_border=true)
+<sub>live previews on <a href="https://badsoul.studio/#projects">badsoul.studio/#projects</a></sub>
+
+---
+
+### // stack
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vue,flutter&theme=dark)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,redis,supabase,firebase&theme=dark)](https://skillicons.dev)
+
+[![AI · Web3 · Sec](https://skillicons.dev/icons?i=pytorch,tensorflow,solidity,kali&theme=dark)](https://skillicons.dev)
+
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,cloudflare,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+### // principles
+
+<sub>own the stack &nbsp;·&nbsp; design for scale &nbsp;·&nbsp; secure every layer &nbsp;·&nbsp; build long-term</sub>
+
+---
+
+### // open source
+
+<a href="https://github.com/badsoulstudio/port-killer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=badsoulstudio&repo=port-killer&hide_border=true&bg_color=0B0F14&title_color=10B981&icon_color=10B981&text_color=94A3B8" />
+</a>
+<a href="https://github.com/badsoulstudio/Security-Scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=badsoulstudio&repo=Security-Scanner&hide_border=true&bg_color=0B0F14&title_color=10B981&icon_color=10B981&text_color=94A3B8" />
+</a>
+<a href="https://github.com/badsoulstudio/domainsale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=badsoulstudio&repo=domainsale&hide_border=true&bg_color=0B0F14&title_color=10B981&icon_color=10B981&text_color=94A3B8" />
+</a>
+
+---
+
+### // connect
+
+<a href="https://badsoul.studio"><img src="https://img.shields.io/badge/SITE-10B981?style=flat&logo=googlechrome&logoColor=10B981&labelColor=0B0F14" /></a>
+&nbsp;
+<a href="mailto:info@badsoul.studio"><img src="https://img.shields.io/badge/EMAIL-10B981?style=flat&logo=maildotru&logoColor=10B981&labelColor=0B0F14" /></a>
+&nbsp;
+<a href="https://t.me/BadSoulStudio"><img src="https://img.shields.io/badge/TELEGRAM-10B981?style=flat&logo=telegram&logoColor=10B981&labelColor=0B0F14" /></a>
+
+<br /><br />
+
+<sub>open to strategic collaborations</sub>
+
+<br />
+
+> **Building the impossible into reality.**
 
 </div>
